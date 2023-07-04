@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    padding: 10px;
+    background: #000;
+}
+p{
+    color: greenyellow;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+b{
+    text-align: center;
+    display: block;
+    color: orangered;
+}

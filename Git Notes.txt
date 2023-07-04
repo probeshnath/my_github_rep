@@ -1,0 +1,4 @@
+git init 
+git add . 
+git commit -m "my first commemt" 
+git config -l (user email , name dekte)
